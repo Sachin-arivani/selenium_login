@@ -1,0 +1,17 @@
+C:\sachin\dot_net\practice\loginseleniumeg2\loginseleniumeg2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\sachin\dot_net\practice\loginseleniumeg2\loginseleniumeg2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\sachin\dot_net\practice\loginseleniumeg2\loginseleniumeg2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\sachin\dot_net\practice\loginseleniumeg2\loginseleniumeg2\bin\Debug\selenium-manager\linux\selenium-manager
+C:\sachin\dot_net\practice\loginseleniumeg2\loginseleniumeg2\bin\Debug\selenium-manager\macos\selenium-manager
+C:\sachin\dot_net\practice\loginseleniumeg2\loginseleniumeg2\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\sachin\dot_net\practice\loginseleniumeg2\loginseleniumeg2\bin\Debug\loginseleniumeg2.dll
+C:\sachin\dot_net\practice\loginseleniumeg2\loginseleniumeg2\bin\Debug\loginseleniumeg2.pdb
+C:\sachin\dot_net\practice\loginseleniumeg2\loginseleniumeg2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\sachin\dot_net\practice\loginseleniumeg2\loginseleniumeg2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\sachin\dot_net\practice\loginseleniumeg2\loginseleniumeg2\bin\Debug\WebDriver.dll
+C:\sachin\dot_net\practice\loginseleniumeg2\loginseleniumeg2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\sachin\dot_net\practice\loginseleniumeg2\loginseleniumeg2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\sachin\dot_net\practice\loginseleniumeg2\loginseleniumeg2\obj\Debug\loginseleniumeg2.csproj.CoreCompileInputs.cache
+C:\sachin\dot_net\practice\loginseleniumeg2\loginseleniumeg2\obj\Debug\loginseleniumeg2.csproj.CopyComplete
+C:\sachin\dot_net\practice\loginseleniumeg2\loginseleniumeg2\obj\Debug\loginseleniumeg2.dll
+C:\sachin\dot_net\practice\loginseleniumeg2\loginseleniumeg2\obj\Debug\loginseleniumeg2.pdb
